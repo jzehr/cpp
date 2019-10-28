@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "cppnow"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
